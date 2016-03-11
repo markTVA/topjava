@@ -1,0 +1,17 @@
+table {
+    border: thin solid black;
+    font-size: 200%;
+}
+table caption {
+    font-weight: bold;
+    padding-top: 5px;
+}
+td, th {
+    border: thin dotted gray;
+}
+.exceed {
+    color: red;
+}
+.notExceed {
+    color: green;
+}
